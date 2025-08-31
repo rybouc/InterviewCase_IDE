@@ -42,7 +42,7 @@ Contoso AI IDE offers three core features:
 
 ## 3. Feature Usage Limits
 
-Feature usage limits by plan impact user experience and conversion potential.
+Feature usage limits by plan:
 
 | Plan   | AutoComplete (per day) | Chat (per day) | Agent (per day) |
 |--------|------------------------|----------------|-----------------|
