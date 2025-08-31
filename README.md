@@ -53,7 +53,7 @@ Feature usage limits by plan:
 
 ## 4. Modeling Assignment
 
-You are tasked with building predictive models using daily activity data for user accounts created between **3/3/2025 and 3/7/2025**, covering the next 60 days.
+You are tasked with building a predictive model using daily activity data for user accounts created between **3/3/2025 and 3/7/2025**, covering the next 60 days. Use the .csv file in this repository.
 
 ### Modeling Goals
 Pick one of these modeling goals for your project: 
