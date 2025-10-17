@@ -5,7 +5,7 @@ Example data. Not real data.
 
 ## Executive Summary
 
-Contoso AI IDE is an integrated developer environment for AI-assisted software development. The product team is seeking ways to grow the business and improve the product by leveraging user activity data to build predictive models that inform product, marketing, and sales strategies.
+Contoso AI IDE is an integrated developer environment for AI-assisted software development. The product team is seeking ways to grow the business and improve the product by leveraging user activity data to inform product, marketing, and sales strategies.
 
 ---
 
@@ -53,7 +53,7 @@ Feature usage limits by plan:
 
 ## 4. Modeling Assignment
 
-You are tasked with building a predictive model using daily activity data for user accounts created between **3/3/2025 and 3/7/2025**, covering the next 60 days. Use the .csv file in this repository.
+You are tasked with using daily activity data for user accounts created between **3/3/2025 and 3/7/2025**, covering the next 60 days, to inform product strategy. Use the .csv file in this repository.
 
 ### Modeling Goals
 Pick one of these modeling goals for your project: 
@@ -66,20 +66,19 @@ Pick one of these modeling goals for your project:
 
 Prepare the following:
 
-- **Business Presentation (10–15 min)**
+- **Business Presentation (10–15 min)** : With a PowerPoint or slide deck: 
   - Describe the problem/opportunity
-  - Explain your modeling approach
-  - Present model performance
-  - Recommend actions for product, marketing, and sales teams
+  - Present insights
+  - Recommend actions for product, marketing, and/or sales teams
 
-- **Technical Presentation (10–15 min)**
+- **Technical Discussion (10–15 min)** : Share your main points
   - Describe the problem/opportunity
   - Detail your modeling approach and evaluation criteria
   - Present model performance
   - Recommend actions for data science and engineering teams
 
 - **Code Files**
-  - Submit all code used to generate your outputs (Python scripts, Jupyter notebooks, etc.)
+  - Submit all code used to generate your outputs (Python scripts, Jupyter notebooks, queries, etc.) and your final products.
 
 ---
 
