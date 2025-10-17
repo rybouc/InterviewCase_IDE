@@ -55,10 +55,18 @@ Feature usage limits by plan:
 
 You are tasked with using daily activity data for user accounts created between **3/3/2025 and 3/7/2025**, covering the next 60 days, to inform product strategy. Use the .csv file in this repository.
 
-### Modeling Goals
-Pick one of these modeling goals for your project: 
-1. **Upgrade Prediction**: Predict whether a free user will upgrade to a paid plan.
-2. **Retention Prediction**: Predict whether a user will be retained and continue using the product.
+### Analysis Goals
+Mandatory questions to answer: 
+- How many new Free and Paid accounts were created in the week of 3/3-3/7?
+- How many accounts are still using the product in the following days and weeks? What is our retention rate?
+- How many Free accounts upgraded to paid? What is our conversion rate?
+- How many of our Paid accounts have cancelled?
+
+Additional questions the product team might be interested in:
+- What is the relationship between feature usage and product retention or conversion to paid?
+- What is the relationship between feature errors and product retention or conversion to paid?
+- Do we observe distinct differences in user behavior between different user groups?
+- When are users most likely to convert? What does their user behavioral user journey look like?
 
 ---
 
@@ -66,15 +74,13 @@ Pick one of these modeling goals for your project:
 
 Prepare the following:
 
-- **Business Presentation (10–15 min)** : With a PowerPoint or slide deck: 
+- **Business Presentation (10–15 min)** : With a PowerPoint or slide deck, share the following for a Leadership Team audience: 
   - Describe the problem/opportunity
   - Present insights
   - Recommend actions for product, marketing, and/or sales teams
 
-- **Technical Discussion (10–15 min)** : Share your main points
-  - Describe the problem/opportunity
-  - Detail your modeling approach and evaluation criteria
-  - Present model performance
+- **Technical Discussion (10–15 min)** : Prepare the following to share with your data science colleagues, and you will walk us through your code files.
+  - Detail your analysis approach and evaluation criteria
   - Recommend actions for data science and engineering teams
 
 - **Code Files**
@@ -85,6 +91,6 @@ Prepare the following:
 ## 6. Guidance for Presentations
 
 - **Business Audience**: Focus on actionable insights, business impact, and recommendations.
-- **Technical Audience**: Emphasize modeling decisions, feature engineering, evaluation metrics, and reproducibility.
+- **Technical Audience**: Emphasize analysis/modeling decisions, feature engineering, evaluation metrics, and reproducibility.
 
 ---
