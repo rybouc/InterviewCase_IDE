@@ -62,11 +62,12 @@ Mandatory questions to answer:
 - How many Free accounts upgraded to paid? What is our conversion rate?
 - How many of our Paid accounts have cancelled?
 
-Additional questions the product team might be interested in:
+Additional questions the product team might be interested in (not in priority order):
 - What is the relationship between feature usage and product retention or conversion to paid?
 - What is the relationship between feature errors and product retention or conversion to paid?
 - Do we observe distinct differences in user behavior between different user groups?
 - When are users most likely to convert? What does their user behavioral user journey look like?
+- Any other insights or recommendations you have.
 
 ---
 
