@@ -19,7 +19,11 @@ Contoso AI IDE offers three core features:
 
 ---
 
-## 2. Data Dictionary
+## 2. Data
+
+Complete dataset in the .csv file in this repository. 
+
+### Data Dictionary
 
 | Column Name                | Definition                                                        |
 |----------------------------|-------------------------------------------------------------------|
